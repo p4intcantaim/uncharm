@@ -1,6 +1,8 @@
 # uncharm
 Removes the ".lock" file from PyCharm
 
+----------------------------------------------------------------
+
 Do you hate it when you open pycharm and you see that some ".lock" file was created, preventing you from opening pycharm. So you have to go all the way to the ".lock" files location and delete it?
 
 Well, this script is the solution!
