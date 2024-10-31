@@ -4,7 +4,7 @@ Removes the ".lock" file from PyCharm
 ----------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/1e73b838-f711-415d-99f1-2ed9da8b2920)
-(Image of the problem this script fixes)
+                            (Image of the problem this script fixes)
 
 
 Do you hate it when you open pycharm and you see that some ".lock" file was created, preventing you from opening pycharm. So you have to go all the way to the ".lock" files location and delete it?
